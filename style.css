@@ -1,0 +1,28 @@
+* {
+  background-color:aquamarine;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: purple;
+}
+
+h1,h2 {
+  text-align: center;
+}
+
+h1 {
+  color:darkgreen;
+}
+
+h2 {
+  color: rgb(80, 200, 80);
+}
+
+p {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
