@@ -10,6 +10,7 @@ h1,h2 {
 
 h1 {
   color:darkgreen;
+  margin-bottom: 30px;
 }
 
 h2 {
@@ -23,6 +24,9 @@ p {
 
 img {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
+}
+
+li {
+  margin: 10px;
 }
